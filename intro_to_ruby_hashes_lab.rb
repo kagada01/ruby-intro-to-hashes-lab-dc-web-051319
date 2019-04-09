@@ -5,6 +5,7 @@ end
 
 def actor
   the_rock = {name: "Dwayne The Rock Johnson"}
+  the_rock["name:"]
 end
 
 def monopoly
